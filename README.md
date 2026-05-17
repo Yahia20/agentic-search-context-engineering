@@ -107,7 +107,9 @@ Based on concepts from Leonie Monigatti's workshop at AI Engineer Europe 2026.
 
 ## 1. Open in Google Colab
 
-[Open In Colab](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Yahia20/agentic-search-context-engineering/blob/main/agentic_search_context_engineering.ipynb
+)
 
 ---
 
