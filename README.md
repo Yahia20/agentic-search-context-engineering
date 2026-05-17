@@ -1,4 +1,4 @@
-````markdown
+
 # 🔍 Agentic Search for Context Engineering
 
 A practical implementation of **Agentic Search** — the idea that ~80% of context engineering is deciding **what, when, and how to retrieve information** for LLMs.
